@@ -2,7 +2,8 @@ info:
     profile:dev
 
 
-db_type:0
+db_type:
+    0
 
 cspp:
     address:http://www.baidu.com
