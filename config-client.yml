@@ -1,5 +1,6 @@
 info:
     profile:releases
-db_type:1
+db_type:
+    1
 cspp:
     address:http://www.hao123.com
